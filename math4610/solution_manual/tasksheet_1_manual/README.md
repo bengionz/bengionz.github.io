@@ -1,1 +1,1 @@
-This will contain my info for task sheet 1. :)
+This will contain my specs for task sheet 1
