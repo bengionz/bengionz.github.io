@@ -16,12 +16,23 @@ A table of contents for my homework in MATH 4610 can be found [here](https://ben
 
 ### Task 6
 
+My Central Difference Quotient (named CDQ.py) is found in my module math_precision located [here](https://github.com/bengionz/math4610/tree/master/projects/math_precision). Software manual is located [here](https://github.com/bengionz/math4610/tree/master/homework/software_manual).
+
 ### Task 7
 
+Functions for absolute error and relative error (named abserr.py and relerr.py) are found in my module math_precision located [here](https://github.com/bengionz/math4610/tree/master/projects/math_precision). Software manual is located [here](https://github.com/bengionz/math4610/tree/master/homework/software_manual). 
+
 ### Task 8
+
+My shared library containing the 4 required methods is located [here](https://github.com/bengionz/math4610/tree/master/projects/math_precision). Software manual is located [here](https://github.com/bengionz/math4610/tree/master/homework/software_manual). 
 
 ### Task 9
 
 The file for task 9 can be found [here](https://github.com/bengionz/math4610/blob/master/projects/computeexppi.py).
 
 ### Task 10
+
+While both absolute error and relative error can be used to measure accuracy, often it is situationally depentent on which one to use. For example, calulating relative error with an expected value of 0 will result in an undefined value. However, for small quantities, relative error usually tells a more complete picture of accuracy; 3 more than 10 represents a much lower accuracy than 3 higher than 10,000. 
+
+http://www2.phy.ilstu.edu/~wenning/slh/Absolute%20Relative%20Error.pdf
+https://en.wikipedia.org/wiki/Approximation_error
