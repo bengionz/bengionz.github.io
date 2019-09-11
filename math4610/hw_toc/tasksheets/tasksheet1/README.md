@@ -22,6 +22,6 @@ A table of contents for my homework in MATH 4610 can be found [here](https://ben
 
 ### Task 9
 
-https://github.com/bengionz/math4610/blob/master/projects/tasksheet1_task9.py
+The file for task 9 can be found [here](https://github.com/bengionz/math4610/blob/master/projects/computeexppi.py).
 
 ### Task 10
