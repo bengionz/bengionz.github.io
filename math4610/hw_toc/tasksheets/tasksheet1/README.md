@@ -13,3 +13,15 @@ I will be coding in this course in the pyhton langauge. A sample helloWorld.py f
 ### Task 5
 
 A table of contents for my homework in MATH 4610 can be found [here](https://bengionz.github.io/math4610/hw_toc). 
+
+### Task 6
+
+### Task 7
+
+### Task 8
+
+### Task 9
+
+https://github.com/bengionz/math4610/blob/master/projects/tasksheet1_task9.py
+
+### Task 10
