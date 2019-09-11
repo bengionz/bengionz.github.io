@@ -35,4 +35,5 @@ The file for task 9 can be found [here](https://github.com/bengionz/math4610/blo
 While both absolute error and relative error can be used to measure accuracy, often it is situationally depentent on which one to use. For example, calulating relative error with an expected value of 0 will result in an undefined value. However, for small quantities, relative error usually tells a more complete picture of accuracy; 3 more than 10 represents a much lower accuracy than 3 higher than 10,000. 
 
 http://www2.phy.ilstu.edu/~wenning/slh/Absolute%20Relative%20Error.pdf
+
 https://en.wikipedia.org/wiki/Approximation_error
