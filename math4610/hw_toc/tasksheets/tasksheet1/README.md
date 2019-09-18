@@ -2,9 +2,17 @@
 
 This is  my information on Tasksheet 1 in MATH 4610 for Fall 2019. Below are my responses to each task. The prompt can be found [here](https://jvkoebbe.github.io/math4610/tasksheets/html/tasksheet_01.html). 
 
-### Tasks 1-3
+### Tasks 1
 
-I have emailed Dr. Koebbe on topics related to tasks 1-3.
+I have emailed Dr. Koebbe on topics related to task 1.
+
+### Tasks 2
+
+I have emailed Dr. Koebbe on topics related to task 2.
+
+### Tasks 3
+
+I have emailed Dr. Koebbe on topics related to task 3.
 
 ### Task 4
 
