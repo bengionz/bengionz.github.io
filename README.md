@@ -2,4 +2,4 @@
 
 ### Repositories
 
-+ [math4610](https://bengionz.github.io/math4610/hw_toc)
++ [math4610](https://github.com/bengionz/math4610)
